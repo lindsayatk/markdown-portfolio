@@ -1,3 +1,3 @@
-Money
-Bear
-Clothes
+- Money
+- Bear
+- Clothes
